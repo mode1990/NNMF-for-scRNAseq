@@ -64,8 +64,5 @@ This repository contains an R script (`script.R`) for analyzing single-cell RNA 
 #### Notes
 - Adjust paths (`readRDS`) and parameters (`subset`, `nmf`) based on your specific data and analysis requirements.
 - Ensure all necessary libraries (`Seurat`, `dplyr`, `RcppML`) are installed and loaded before running the script.
-
-#### License
-- This code is licensed under [MIT License](https://opensource.org/licenses/MIT).
-
+ 
 
